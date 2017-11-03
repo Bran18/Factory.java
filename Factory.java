@@ -1,6 +1,9 @@
 package Factory;
 import java.io.*;
-
+/*Date:31/10/17
+ *Hour: 23:24 local time
+ *Tipe:TEST 
+ */
 public class Factory {
 	public static void main(String[] args)throws java.io.IOException{ 
        	BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
